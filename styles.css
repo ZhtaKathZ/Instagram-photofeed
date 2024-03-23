@@ -1,0 +1,55 @@
+.titulo {
+    background-color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    background-color: #d4d8cdaf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Post {
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 450px;
+
+    
+}
+.OrniFecha {
+    
+    display: flex;
+    justify-content: space-between;
+    
+    width: 450px;
+    
+}
+.Orni {
+    font-weight: bold;
+    margin: 8px;
+}
+.Fecha {
+    color: rgba(180, 183, 185, 0.753);
+    margin: 8px;
+}
+
+.foto1 {
+    background: white;
+}
+.foto1 img{
+    object-fit: cover;
+    width: 450px;
+    height: 280px;
+}
+
+.pie {
+    padding: 5px;
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
